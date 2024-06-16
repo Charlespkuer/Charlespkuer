@@ -1,3 +1,4 @@
+# Charles
 - 👋 Hi, I’m @Charlespkuer
 - 👀 I’m interested in fitness and swimming
 - 🌱 I’m currently learning how to use python to create simple games
