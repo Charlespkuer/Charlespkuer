@@ -1,10 +1,12 @@
 # Charles
 
-- 📫 E-mail : 2100011536@stu.pku.edu.cn
+- 📫 E-mail : huangyuxiang@mails.ucas.ac.cn
 - 🌐 Homepage : [Github-Homepage](https://github.com/Charlespkuer)
-- 🌠 Education : **Peking University** in *Beijing, China* , 2021 - 2025 in *The School of Physics*
+- 🌠 Education :
+  - **Peking University** in *Beijing, China* , 2021 - 2025 in *The School of Physics*
+  - **ITP, CAS** in *Beijing, China* , 2025 - 2030
 - 👀 Interests : Fitness, running, swimming, games, animie and books
-- 🌱 Doing : Currently learning how to use python to create simple games
+- 🌱 Doing : Working on tensorcircuit-ng program.
 
 
 
