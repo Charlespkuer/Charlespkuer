@@ -1,6 +1,6 @@
 # Charles
 
-- 📫 E-mail : huangyuxiang@mails.ucas.ac.cn
+- 📫 E-mail : huangyuxiang25@mails.ucas.ac.cn
 - 🌐 Homepage : [Github-Homepage](https://github.com/Charlespkuer)
 - 🌠 Education :
   - **Peking University** in *Beijing, China* , 2021 - 2025 in *The School of Physics*
