@@ -6,7 +6,7 @@
   - **Peking University** in *Beijing, China* , 2021 - 2025 in *The School of Physics*
   - **ITP, CAS** in *Beijing, China* , 2025 - 2030
 - 👀 Interests : Fitness, running, swimming, games, animie and books
-- 🌱 Doing : Working on tensorcircuit-ng program.
+- 🌱 Doing : Previously working on tensorcircuit-ng program, now focous on grokking and EoS in QNN.
 
 
 
